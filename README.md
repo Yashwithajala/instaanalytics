@@ -1,3 +1,4 @@
 # instaanalytics
 
-<img width="1017" height="572" alt="Screenshot 2025-08-02 213615" src="https://github.com/user-attachments/assets/73117a07-489d-411d-bb24-e8032e0e4322" />
+<img width="997" height="559" alt="Screenshot 2025-08-02 213615" src="https://github.com/user-attachments/assets/c4b2b743-9175-4046-be75-2e504a7cde52" />
+
